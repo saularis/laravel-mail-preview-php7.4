@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-mail-preview",
+    "name": "saularis/laravel-mail-preview-php7.4",
     "description": "A mail driver to quickly preview mail",
     "keywords": ["laravel", "mail"],
     "homepage": "https://github.com/themsaid/laravel-preview-mail-driver",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^7.4",
         "illuminate/filesystem": "^8.26",
         "illuminate/mail": "^8.26",
         "illuminate/support": "^8.26",
